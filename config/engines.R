@@ -1,1 +1,1 @@
-engine("python", type = "local", path = "~/dev/python.sy", mount = TRUE)
+engine("python", type = "github", repo = "syberia/python.sy", mount = TRUE)
