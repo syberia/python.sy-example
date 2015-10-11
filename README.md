@@ -5,7 +5,7 @@ that makes it incredibly easy to manage dependencies and track the
 etiology of local variables and functions.
 
 This is an example [python.sy](https://github.com/syberia/python.sy) project
-that demonstrates an example of Python's module system ported to R using
+that demonstrates a minimal translation of Python's module system ported to R using
 [syberia](https://github.com/robertzk/syberia).
 
 Example
