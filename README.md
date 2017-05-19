@@ -1,4 +1,5 @@
-# Example of Python Modules for R
+# Example of Python Modules for R <a href="https://travis-ci.org/syberia/python.sy-example"><img src="https://img.shields.io/travis/syberia/python.sy-example.svg"></a> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/syberia/syberia/blob/master/LICENSE) [![Join the chat at https://gitter.im/syberia/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/syberia/Lobby) 
+
 
 Python is known for a stellar [module and import system](https://docs.python.org/2/tutorial/modules.html)
 that makes it incredibly easy to manage dependencies and track the
